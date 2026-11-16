@@ -2,5 +2,9 @@
 
 // import './enum.js'
 
-import './as.js'
+// import './as.js'
+
+// import './keyof.js'
+
+import './gen.js'
 
